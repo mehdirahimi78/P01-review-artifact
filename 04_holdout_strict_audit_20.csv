@@ -1,0 +1,21 @@
+candidate_id,metric,similarity,auto_match_at_070,final_human_label,outcome
+C00034,SemanticPost,0.577149,False,Match,FN
+C00050,Tin,0.215723,False,No Match,TN
+C00054,SemanticPre,0.863916,True,Match,TP
+C00058,Tin,0.227189,False,No Match,TN
+C00102,Tin,1.0,True,Match,TP
+C00126,SemanticPre,0.866251,True,Partial,FP
+C00159,SemanticPost,0.827603,True,Partial,FP
+C00177,SemanticPre,0.816542,True,Match,TP
+C00241,Tin,1.0,True,Match,TP
+C00276,SemanticPost,0.857727,True,Partial,FP
+C00336,Tout,0.204039,False,No Match,TN
+C00337,Tout,0.379742,False,No Match,TN
+C00339,SemanticPost,0.80811,True,Partial,FP
+C00416,Tout,1.0,True,Match,TP
+C00560,Tout,1.0,True,Match,TP
+C00571,SemanticPre,0.776604,True,Partial,FP
+C00650,Tin,0.277966,False,No Match,TN
+C00654,SemanticPre,0.473649,False,No Match,TN
+C00671,Tout,0.307822,False,No Match,TN
+C00695,SemanticPost,0.896086,True,Match,TP
